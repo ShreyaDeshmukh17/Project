@@ -4,7 +4,7 @@
 
 This project combines two core cybersecurity concepts into one practical tool:
 
-1. *Password Strength Checker** 
+1. *Password Strength Checker*
    Uses the `zxcvbn` library to evaluate password strength based on real-world attack patterns and provides crack time estimates along with useful feedback.
 
 2. *Custom Wordlist Generator*
